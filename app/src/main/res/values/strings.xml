@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tap_test">Tap here to test alert:</string>
+    <string name="alert">alert</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_message">Click OK to continue, or Cancel to stop</string>
+</resources>
